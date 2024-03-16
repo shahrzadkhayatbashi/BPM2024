@@ -1,0 +1,3 @@
+"ID","EntityType","Name","Point","Code","Course Period",":LABEL","id:ID"
+"a1","Assignment","Foundations of BPM","2","","","ENTITY","9"
+"c1","Course","Business Process Management","","BPM","20230101:20230401","ENTITY","10"

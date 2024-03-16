@@ -1,0 +1,2 @@
+"source_ID","source_EntityType","qual","target_ID","target_EntityType","EntityType","ID",":LABEL","id:ID"
+"c1","Course","has","a1","Assignment","(Course,Assignment)","(c1,a1)","ENTITY","34"

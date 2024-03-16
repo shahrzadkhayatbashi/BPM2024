@@ -1,0 +1,6 @@
+"EventID","timestamp","Activity",":LABEL","id:ID"
+"e1","2023-01-05 09:00:00+00:00","read the instruction","EVENT","4"
+"e2","2023-04-05 23:59:00+00:00","submit the assignment","EVENT","5"
+"e3","2024-01-01 00:00:00+00:00","release a new course instance","EVENT","6"
+"e4","2024-01-04 09:00:00+00:00","read the instruction","EVENT","7"
+"e5","2024-01-20 23:10:00+00:00","submit the assignment","EVENT","8"

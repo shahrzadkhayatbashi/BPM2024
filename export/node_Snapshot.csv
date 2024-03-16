@@ -1,0 +1,5 @@
+"ID","EntityType","Name","Point","Code","Course Period","timestamp","ENTITY_ID",":LABEL","id:ID"
+"(a1,1970-01-01 00:00:00+00:00)","Assignment","Foundations of BPM","2","","","1970-01-01 00:00:00+00:00","a1","SNAPSHOT","11"
+"(a1,2024-01-01 00:00:00+00:00)","Assignment","Foundations of BPM","3","","","2024-01-01 00:00:00+00:00","a1","SNAPSHOT","12"
+"(c1,1970-01-01 00:00:00+00:00)","Course","Business Process Management","","BPM","20230101:20230401","1970-01-01 00:00:00+00:00","c1","SNAPSHOT","13"
+"(c1,2024-01-01 00:00:00+00:00)","Course","Business Process Management","","BPM","20240101:20240401","2024-01-01 00:00:00+00:00","c1","SNAPSHOT","14"
